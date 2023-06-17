@@ -46,8 +46,8 @@ body {
 }
 .background-bottom {
     position: absolute;
-    width: 500px;
-    height: 500px;
+    width: 475px;
+    height: 475px;
     bottom: -100px;
     right: -100px;
     transform: rotate(250deg);
